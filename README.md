@@ -13,4 +13,4 @@ print('hello')
 # 프로젝트 관련 이미지
 ![이미지설명](./image/sdfsdf.jfif)
 # 프로잭트 
-https://www.youtube.com/watch?v=iEudxVi2j_A
+[d](https://www.youtube.com/watch?v=iEudxVi2j_A)
